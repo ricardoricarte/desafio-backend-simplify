@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlnB59Av89g54EcEUpCOYQCDrMQZyRMOReAZT2K4WxvMWtbDc2FIBXwOVeiDmejIvMjQ&usqp=CAU" width="50%">
   TODO List
 </h1>
